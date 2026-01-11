@@ -4,7 +4,7 @@
 
 This project provides a comprehensive data-driven analysis of the higher education landscape in Uzbekistan. By leveraging national datasets from **stat.edu.uz**, the study identifies key trends in student demographics, institutional preferences, popular academic fields, and the growing internationalization of Uzbek universities.
 
-## 🛠️ Tech Stack
+##Tech Stack
 * 
 **Excel:** Employed for data cleaning, normalization, and preliminary exploratory data analysis (EDA).
 
