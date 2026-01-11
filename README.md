@@ -34,7 +34,7 @@ Based on the analysis of the most recent national datasets, the following insigh
 
 * **Internationalization:** Uzbekistan currently hosts **17,597 international students**. The top three countries of origin for these students are **India**, **Turkmenistan**, and **Pakistan**.
 
-## 📂 Project Structure
+##Project Structure
 
 * 
 `/data`: Contains links or references to the raw datasets from stat.edu.uz.
@@ -44,7 +44,7 @@ Based on the analysis of the most recent national datasets, the following insigh
 
 
 
-## 📈 Methodology
+##Methodology
 
 1. 
 **Data Acquisition:** Extracted raw data from the State Committee of the Republic of Uzbekistan on Statistics.
